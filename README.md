@@ -3,4 +3,4 @@
 </p>
 
 
-![Aditya Jetely's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaJ7&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaJ7&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="80%"/>
