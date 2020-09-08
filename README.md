@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width=75% />
+<img src="https://media.giphy.com/media/bgfAb8e9MoaGc/giphy.gif" width=60% />
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJ7&layout=compact&hide=html&theme=radical" alt="AdityaJ7" />
