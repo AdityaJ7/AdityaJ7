@@ -21,3 +21,13 @@ I am Aditya Jetely. My main interest lies in Machine Learning, Economics and Dat
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaJ7&show_icons=true&theme=radical" alt="AdityaJ7" />
+<br>
+
+<h2>
+Connect with me<img src="https://github.com/AdityaJ7/AdityaJ7/blob/master/Assets/Handshake.gif" height="32px">
+</h2>
+
+| [<img src="https://github.com/AdityaJ7/AdityaJ7/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/aditya-jetely/) |  [<img src="https://github.com/AdityaJ7/AdityaJ7/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/violentbird/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/AdityaJ7)| [<img src="https://github.com/AdityaJ7/AdityaJ7/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ajetely@gmail.com)
+|:---:|:---:|:---:|:---:|
+
+<br>
