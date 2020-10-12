@@ -20,6 +20,8 @@ I am Aditya Jetely. My main interest lies in Machine Learning, Economics and Dat
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-jetely/) or <a href="mailto:ajetely@gmail.com">Email</a>
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJ7&layout=compact&hide=html&theme=radical" alt="AdityaJ7" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaJ7&show_icons=true&theme=radical" alt="AdityaJ7" />
 <br>
 
