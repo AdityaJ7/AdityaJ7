@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/k39w535jFPYrK/giphy.gif" width=60% />
+<img src="https://media.giphy.com/media/iKnaFts8cPC1bKYU4b/giphy.gif" width=60% />
 </p>
 
 # Hi there :wave:
