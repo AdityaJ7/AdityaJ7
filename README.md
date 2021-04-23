@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://media.giphy.com/media/iKnaFts8cPC1bKYU4b/giphy.gif" width=60% />
-</p>
-
 # Hi there :wave:
 
 I am Aditya Jetely. My main interest lies in Machine Learning, Economics and Data Analysis. I like working on challenging projects and am always curious to learn new things.
