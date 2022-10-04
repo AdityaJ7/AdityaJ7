@@ -5,7 +5,7 @@ I am Aditya Jetely. My main interest lies in API development. I like working on 
 
 - 🔭 I’m currently working on **Some Python Projects**.
 
-- 🌱 I’m currently try to learn **MERN Stack** 
+- 🌱 I’m currently trying to learn **MERN Stack** 
 
 - 👯 I’m looking to collaborate on **Open Sourced**  *Python* 🐍  projects.
 
